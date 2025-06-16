@@ -1,6 +1,6 @@
 # DocLN Crawler
 
-Spycrawl giúp truyện từ trang https://docln.net
+Crawl truyện khi bạn chán từ https://docln.net
 ---
 
 ## Hướng dẫn sử dụng
